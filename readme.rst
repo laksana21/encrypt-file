@@ -8,7 +8,7 @@ This programs can be used to encrypt your file.
 *******************
 Aditional information
 *******************
-| Structure : RAR
+| Structure : JSON
 | Seed : Your passwoed
 | Algorithm : Basic XOR
 
